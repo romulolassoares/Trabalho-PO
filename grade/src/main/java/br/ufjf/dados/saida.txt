@@ -1,0 +1,223 @@
+Sérgio - SEG - 6A - 13:50
+Sérgio - QUA - 6D - 14:40
+Sérgio - SEX - 7B - 13:00
+Thiago Seixas - TER - 8A - 13:00
+Thiago Seixas - TER - 8C - 16:35
+Ana Paula - QUI - 8A - 13:00
+Ana Paula - QUI - 8A - 13:50
+Ana Paula - QUI - 8B - 14:40
+Ana Paula - QUI - 8C - 16:35
+Alexandre - TER - 9A - 13:00
+Alexandre - TER - 9A - 13:50
+Alexandre - TER - 9B - 14:40
+Alexandre - TER - 9B - 15:45
+Alexandre - TER - 9C - 16:35
+Alexandre - QUI - 9A - 13:00
+Alexandre - QUI - 9C - 14:40
+Alexandre - QUI - 9D - 16:35
+Alexandre - SEX - 7D - 15:45
+Alexandre - SEX - 9D - 14:40
+Valéria - SEG - 9A - 13:50
+Valéria - SEG - 9B - 14:40
+Valéria - SEG - 9B - 15:45
+Valéria - SEG - 9C - 16:35
+Valéria - TER - 9D - 14:40
+Valéria - TER - 9E - 15:45
+Valéria - QUA - 9A - 13:00
+Valéria - QUA - 9B - 13:50
+Valéria - QUA - 9C - 15:45
+Andréia - SEG - 6C - 14:40
+Andréia - TER - 6A - 13:00
+Andréia - TER - 6A - 13:50
+Andréia - TER - 6B - 14:40
+Andréia - TER - 6B - 15:45
+Andréia - TER - 6C - 16:35
+Cláudia - SEG - 6C - 13:00
+Cláudia - SEG - 6D - 14:40
+Cláudia - SEG - 7C - 15:45
+Cláudia - TER - 6C - 13:00
+Cláudia - QUI - 6C - 13:00
+Cláudia - QUI - 6D - 13:50
+Cláudia - QUI - 7D - 16:35
+Débora - SEG - 7A - 14:40
+Débora - SEG - 7B - 13:00
+Débora - SEG - 7B - 16:35
+Débora - TER - 6D - 13:50
+Débora - TER - 7A - 14:40
+Débora - TER - 7A - 15:45
+Débora - QUA - 6D - 13:00
+Débora - QUA - 7A - 13:50
+Eliane - QUA - 7C - 13:00
+Eliane - QUA - 7C - 13:50
+Eliane - QUA - 7D - 14:40
+Eliane - QUA - 7D - 15:45
+Eliane - QUA - 9E - 16:35
+Fabiana Moreira - QUA - 9C - 13:50
+Fabiana Moreira - QUA - 9D - 15:45
+Fabiana Moreira - QUI - 8C - 13:00
+Fabiana Moreira - SEX - 6D - 14:40
+Fabiana Moreira - SEX - 8B - 13:00
+Fabiana Moreira - SEX - 9E - 13:50
+Henrique - TER - 7D - 13:00
+Henrique - TER - 7D - 13:50
+Henrique - TER - 8D - 14:40
+Henrique - TER - 8D - 15:45
+Henrique - QUA - 7A - 13:00
+Henrique - QUA - 7B - 13:50
+Henrique - QUA - 7C - 15:45
+Henrique - SEX - 7C - 15:45
+Horácio - SEG - 9A - 13:00
+Horácio - SEG - 9B - 13:50
+Horácio - TER - 9A - 13:00
+Horácio - TER - 9C - 13:50
+Horácio - TER - 9D - 14:40
+Horácio - QUI - 9C - 13:00
+Horácio - SEX - 9A - 13:00
+Horácio - SEX - 9A - 13:50
+Huelber - SEG - 9C - 14:40
+Huelber - TER - 9B - 13:00
+Huelber - QUA - 6B - 14:40
+Huelber - QUI - 9E - 14:40
+Inês - SEG - 8A - 13:50
+Inês - SEG - 8D - 15:45
+Inês - TER - 8B - 13:00
+Inês - TER - 8C - 14:40
+Inês - QUA - 6B - 16:35
+Inês - QUA - 8A - 13:00
+Inês - QUA - 8C - 14:40
+Jaqueline - SEG - 6B - 13:50
+Jaqueline - SEG - 6C - 15:45
+Jaqueline - SEG - 6D - 16:35
+Jaqueline - TER - 6B - 13:00
+Jaqueline - QUA - 9C - 13:00
+Jimmy - SEG - 8C - 14:40
+Jimmy - TER - 8B - 15:45
+Jimmy - TER - 8D - 13:00
+Jimmy - SEX - 8A - 15:45
+Juliana Souza - QUA - 6C - 13:00
+Juliana Souza - QUA - 8B - 14:40
+Juliana Souza - QUI - 7A - 13:00
+Juliana Souza - QUI - 7B - 13:50
+Juliana Souza - SEX - 9B - 13:50
+Juliana Souza - SEX - 9C - 15:45
+Julio - SEG - 8A - 14:40
+Julio - SEX - 8A - 13:00
+Julio - SEX - 8B - 13:50
+Julio - SEX - 8D - 15:45
+Luiz Rogério - TER - 9D - 13:50
+Luiz Rogério - TER - 9E - 15:45
+Luiz Rogério - QUA - 9D - 13:00
+Luiz Rogério - QUA - 9D - 13:50
+Luiz Rogério - QUA - 9E - 14:40
+Luiz Rogério - QUI - 6C - 14:40
+Luiz Rogério - QUI - 9D - 13:00
+Luiz Rogério - SEX - 9D - 13:00
+Mara - QUI - 6C - 16:35
+Mara - SEX - 6B - 13:50
+Mara - SEX - 6C - 15:45
+Marcílio - SEG - 6C - 13:00
+Marcílio - SEG - 7C - 15:45
+Marcílio - TER - 6C - 13:00
+Marcílio - TER - 7C - 13:50
+Marcílio - TER - 7C - 15:45
+Marcílio - TER - 8C - 14:40
+Marcílio - TER - 8C - 16:35
+Marcelo - SEG - 7C - 13:50
+Marcelo - SEG - 7D - 14:40
+Marcelo - SEG - 7D - 15:45
+Marcelo - TER - 6B - 15:45
+Marcelo - TER - 7C - 13:00
+Marcelo - TER - 7D - 13:50
+Patrick - TER - 6A - 13:00
+Patrick - TER - 9C - 15:45
+Patrick - QUA - 6B - 13:00
+Patrick - QUA - 6C - 13:50
+Patrick - QUA - 6C - 15:45
+Patrick - QUA - 6D - 16:35
+Patrick - QUI - 6B - 13:00
+Patrick - QUI - 6B - 13:50
+Patrick - QUI - 6D - 16:35
+Rodrigo Almeida - SEG - 8A - 15:45
+Rodrigo Almeida - SEG - 8B - 16:35
+Rodrigo Almeida - SEG - 9E - 13:50
+Rodrigo Almeida - SEG - 9E - 14:40
+Rodrigo Almeida - TER - 8A - 14:40
+Rodrigo Almeida - TER - 8B - 16:35
+Rodrigo Almeida - QUA - 8B - 14:40
+Rodrigo Almeida - QUA - 8B - 15:45
+Rodrigo Almeida - QUA - 9E - 13:50
+Renato - TER - 6C - 15:45
+Renato - TER - 7B - 14:40
+Renato - TER - 9B - 16:35
+Renato - QUA - 9A - 13:00
+Renato - QUI - 9C - 13:00
+Tatiana - SEG - 8A - 13:50
+Tatiana - SEG - 8A - 16:35
+Tatiana - QUA - 9C - 16:35
+Tiago Andrade - QUI - 7A - 13:50
+Tiago Andrade - QUI - 7B - 15:45
+Tiago Andrade - QUI - 8A - 16:35
+Selma - QUI - 6A - 16:35
+Selma - QUI - 6B - 13:00
+Selma - QUI - 6C - 13:50
+Selma - QUI - 6D - 14:40
+Selma - QUI - 7A - 15:45
+Selma - SEX - 6A - 13:00
+Janderson - SEG - 8C - 15:45
+Janderson - QUA - 8A - 13:00
+Janderson - QUA - 8A - 13:50
+Janderson - QUA - 8B - 16:35
+Janderson - QUI - 8D - 14:40
+Gisele Braga - SEG - 6A - 14:40
+Gisele Braga - TER - 6A - 14:40
+Gisele Braga - TER - 6B - 16:35
+Gisele Braga - SEX - 6B - 15:45
+Luy Braida - TER - 9A - 13:00
+Luy Braida - TER - 9B - 15:45
+Luy Braida - TER - 9D - 16:35
+Luy Braida - QUI - 9A - 13:50
+Luy Braida - QUI - 9B - 14:40
+Luy Braida - QUI - 9C - 16:35
+Luy Braida - SEX - 9C - 13:00
+Andressa - QUA - 8A - 15:45
+Andressa - QUA - 8C - 16:35
+Andressa - QUA - 8D - 13:50
+Andressa - QUI - 8A - 14:40
+Andressa - QUI - 8B - 13:50
+Andressa - QUI - 8C - 15:45
+Andressa - SEX - 8B - 15:45
+Andressa - SEX - 8C - 13:50
+Kátia - SEG - 6A - 13:00
+Kátia - SEG - 6B - 13:50
+Kátia - SEG - 6B - 14:40
+Kátia - TER - 6A - 13:00
+Kátia - TER - 6B - 13:50
+Kátia - TER - 6B - 14:40
+Kátia - TER - 8C - 15:45
+Kátia - TER - 8D - 16:35
+Kátia - QUA - 6B - 13:50
+Kátia - QUA - 7C - 14:40
+Denise - SEG - 9B - 13:50
+Denise - SEG - 9B - 14:40
+Denise - SEG - 9C - 15:45
+Denise - SEG - 9C - 16:35
+Denise - TER - 9A - 13:00
+Denise - TER - 9A - 15:45
+Denise - TER - 9B - 13:50
+Denise - TER - 9E - 14:40
+Denise - TER - 9E - 16:35
+Denise - QUA - 9B - 14:40
+Denise - QUA - 9B - 15:45
+Diogo - SEG - 7A - 13:50
+Diogo - SEG - 7B - 14:40
+Diogo - SEG - 7B - 15:45
+Diogo - SEG - 7D - 16:35
+Diogo - QUI - 7C - 13:50
+Diogo - QUI - 7C - 14:40
+Diogo - QUI - 7D - 13:00
+Diogo - QUI - 8D - 15:45
+Diogo - QUI - 9A - 16:35
+Juliana Maria - TER - 8C - 13:00
+Juliana Maria - TER - 8D - 14:40
+Juliana Maria - TER - 8D - 15:45
+Juliana Maria - SEX - 8C - 13:00
